@@ -49,7 +49,7 @@ pip install numpy pandas scikit-learn xgboost imbalanced-learn matplotlib seabor
 1. **Clone the repo**
 
    ```bash
-   git clone [https://github.com/<your‑user>/donorschoose-risk-model.git](https://github.com/Ajaitly7/90803_ML_Final_Project.git)
+   git clone https://github.com/<your‑user>/donorschoose-risk-model.git
    ```
 
 2. **Add the raw data**

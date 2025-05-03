@@ -53,7 +53,7 @@ pip install numpy pandas scikit-learn xgboost imbalanced-learn matplotlib seabor
    ```
 
 2. **Add the raw data**
-   Download the five CSVs (`projects.csv`, `outcomes.csv`, `essays.csv`, `resources.csv`, `donations.csv`) from the Google Drive link and place them in a folder named `datasets/` at the project root.
+   Download the five CSVs (`projects.csv`, `outcomes.csv`, `essays.csv`, `resources.csv`, `donations.csv`) from the Google Drive link and place them in same directory as the project root.
 
 3. **Launch Jupyter**
 

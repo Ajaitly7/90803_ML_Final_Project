@@ -1,4 +1,4 @@
-# DonorsChoose Project Risk Model
+# Donors Choose Project Risk Model
 
 Dataset: https://www.kaggle.com/c/kdd-cup-2014-predicting-excitement-at-donors-choose/data 
 
